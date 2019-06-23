@@ -1,3 +1,0 @@
-﻿"PressureHull_InnerRadius"= 546.1mm
-"PressureHull_OuterRadius"= 609.6mm
-"InnerShell_InnerRadius"= 543mm
